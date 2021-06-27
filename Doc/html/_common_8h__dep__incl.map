@@ -1,0 +1,8 @@
+<map id="/home/ace/project/Moving_AVG_Filter/inc/Common.h" name="/home/ace/project/Moving_AVG_Filter/inc/Common.h">
+<area shape="rect" id="node1" title="Structures and enumerations common to the entire project are kept her." alt="" coords="183,5,363,47"/>
+<area shape="rect" id="node2" href="$_circular_buffer_8h.html" title="Interface Circular buffer implementation." alt="" coords="240,95,447,136"/>
+<area shape="rect" id="node3" href="$_moving_avg_filter_8h.html" title="Interface for Average filter implementation." alt="" coords="92,184,312,225"/>
+<area shape="rect" id="node6" href="$_circular_buffer_8c.html" title="Circular buffer implementation." alt="" coords="336,184,545,225"/>
+<area shape="rect" id="node4" href="$_main_8c.html" title=" " alt="" coords="5,273,177,315"/>
+<area shape="rect" id="node5" href="$_moving_avg_filter_8c.html" title="Moving Average filter implementation." alt="" coords="201,273,424,315"/>
+</map>

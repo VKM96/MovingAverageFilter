@@ -1,0 +1,4 @@
+<map id="sAvgFilter_t" name="sAvgFilter_t">
+<area shape="rect" id="node1" title="Structure that holds moving average filter parameters." alt="" coords="9,95,101,121"/>
+<area shape="rect" id="node2" href="$structs_circ_buffer__t.html" title="Circular buufer structure." alt="" coords="5,5,104,32"/>
+</map>

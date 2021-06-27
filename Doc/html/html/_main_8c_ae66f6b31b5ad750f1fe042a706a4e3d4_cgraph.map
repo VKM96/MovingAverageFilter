@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Function entry point, Initialization and logging of logger demonstrated." alt="" coords="5,56,56,83"/>
+<area shape="rect" id="node2" href="$_moving_avg_filter_8h.html#a168fa141ff7b749124e79cf3d6bb20b7" title="function for adding data into filter" alt="" coords="107,5,200,32"/>
+<area shape="rect" id="node3" href="$_moving_avg_filter_8h.html#aafb263b8247a7aa571a7d0471fbd3c60" title="function that current moving average" alt="" coords="104,56,203,83"/>
+<area shape="rect" id="node4" href="$_moving_avg_filter_8h.html#a0e9f1a9b1c9051f78930454eaafe56d0" title="Filter initialization function." alt="" coords="117,107,189,133"/>
+</map>
