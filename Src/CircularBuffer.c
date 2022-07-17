@@ -95,7 +95,7 @@ eStatusMAF_t circBuffer_Enqueue(pHandleCircBuffer const pMe, const int16_t data)
         status = e_OVERWRITE;
         pMe->numElems--; ///> Cap numElements here by decrementing 
     }
-    pMe->tail = (++pMe->tail) % (pMe->circBufSize) ;
+    pMe->tail = ((++(pMe->tail)) % (pMe->circBufSize)) ;
 
     pMe->buf[pMe->tail] = data;
     pMe->numElems++;
@@ -124,7 +124,7 @@ eStatusMAF_t circBuffer_Dequeue(pHandleCircBuffer const pMe, int16_t* pData)
         *pData = pMe->buf[pMe->head] ;
         pMe->buf[pMe->head] = 0 ;
 
-        pMe->head = (++pMe->head) % (pMe->circBufSize) ;
+        pMe->head = ((++(pMe->head)) % (pMe->circBufSize)) ;
 
         pMe->numElems--;
     }
